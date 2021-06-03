@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Kings declaration and ordinance containing the cause of his warre against the duke of Sauoy, warning his subiects, that they carrie not armes against his Maiestie: and a commandement to all true Frenchmen, to retire themselues to his obedience. According to the copie printed at Paris by Iames Mettayer, ordinarie printer to the King, 1600.</title>
+            <author>France. Sovereign (1589-1610 : Henry IV)</author>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A02980</idno><idno type="EEBO-CITATION">99847864</idno>
+  <idno type="VID">12927</idno>
+  <idno type="EEBO-PROQUEST">2240920022</idno>
+  <idno type="STC">STC 13121</idno>
+  <idno type="STC">ESTC S112618</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99847864e"/>
+            <note>(EEBO-TCP ; phase 2, no. A02980)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 12927)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 465:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Kings declaration and ordinance containing the cause of his warre against the duke of Sauoy, warning his subiects, that they carrie not armes against his Maiestie: and a commandement to all true Frenchmen, to retire themselues to his obedience. According to the copie printed at Paris by Iames Mettayer, ordinarie printer to the King, 1600.</title>
+                  <author>France. Sovereign (1589-1610 : Henry IV)</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Imprinted [by S. Stafford] for Iohn Flasket,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1600.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printer's name from STC.</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">France --  History --  Henry IV, 1589-1610 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:12927:1"/>
+            <pb facs="tcp:12927:1"/>
+            <p>THE KINGS Declaration and Ordinance, CONTAINING THE cause of his warre against the Duke of Sauoy, warning his subiects, that they carrie not armes against his Maiestie: And a com<g ref="char:EOLhyphen"/>mandement to all true Frenchmen, to retire themselues to his obedience.</p>
+            <p>According to the copie printed at Paris by Iames Mettayer, ordinarie Printer to the King, 1600.</p>
+            <figure>
+               <q xml:lang="lat">AVT NVNC AVT NVNQVAM</q>
+               <figDesc>printer's device, originally belonging to J. Danter (1589-99) consisting of Opportunity standing on a wheel which floats in the sea, surrounded by the motto "aut nunc aut nunquam". (McKerrow No. 281)</figDesc>
+            </figure>
+            <p>LONDON. Imprinted for Iohn Flasket. 1600.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:12927:2"/>
+            <pb facs="tcp:12927:2"/>
+            <head>The Kings declaration &amp; ordinance, containing the cause of his warre against the Duke of Sauoy, warning his subiects, that they carrie not armes against his Maiestie: and a com<g ref="char:EOLhyphen"/>mandement to all true Frenchmen, to retire themselues to his obedience.</head>
+            <p>
+               <seg rend="decorInit">H</seg>Is Maiestie being con<g ref="char:EOLhyphen"/>strained to imploy his forces against the Duke of Sauoy, in regard of the Marquisate of Sa<g ref="char:EOLhyphen"/>luces, by him wrong<g ref="char:EOLhyphen"/>fully in the <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ime of peace betweene him and his Maiesties pre<g ref="char:EOLhyphen"/>decessor Henrie the third of happie memorie, taken, and vsurped, decla<g ref="char:EOLhyphen"/>reth and maketh knowne to all to whom it shall ap<g ref="char:EOLhyphen"/>pertaine, to haue recourse to this remedie, to his great sorrow and heartes griefe, for the singular de<g ref="char:EOLhyphen"/>sire that his Maiestie hath to raigne in peace &amp; good amitie with all his neighbors, to auoid the which hee hath done all that his honor, the dutie of a good prince, a louer of publike rest, and the good of his kingdome would giue him leaue, as it is apparant
+<pb facs="tcp:12927:3"/> and well knowne to all men, as well by the treatie of peace made at Veruins 1598. betweene his Maiestie, Philip the second King of Spaine, &amp; the said Duke of Sauoy: and with what diligence and submissions towards the Pope, his Maiestie hath sought the fol<g ref="char:EOLhyphen"/>lowing and continuance of the said treatie, and also by the last agreement made betweene his Maiestie and the said Duke of Sauoy at Paris in Februarie last past, and the patience his Maiestie hath had since the agreement to attend the said Dukes resolution vpon matters agreed vpon, which hee promised to do be<g ref="char:EOLhyphen"/>fore the first day of Iune.</p>
+            <p>And for as much his Maiesty meanes to make war vpon the said Duke, for the recouerie of the Marqui<g ref="char:EOLhyphen"/>sate of Saluces by him wrongfully held from him, so he declareth that he will obserue and faithfully keep the treatie of peace made at Veruins with all them that shall doe the like in his behalfe. Moreouer, hee meaneth not to vse any hostilitie vpon such of the Duke of Sauoyes subiectes or vassals, as shall not carrie armes in this warre against his Maiestie or his seruice.</p>
+            <p>His Maiestie aboue all other things intends to take into his protection, and defend from ruine and op<g ref="char:EOLhyphen"/>pression all religious places &amp; persons, as Churches, Codents, Abbayes, and Monasteries of men and wo<g ref="char:EOLhyphen"/>men, prouided they neither fauor or assist the Dukes forces.</p>
+            <p>In regard whereof, his Maiestie expressely forbids vpon paine of death, all men of warre, either horse or foote, of what nation soeuer they bee in his pay,
+<pb facs="tcp:12927:3"/> and seruing in his army, to take ransome of prisoners, or molest the subiects of the said Duke either in per<g ref="char:EOLhyphen"/>son, or goods, either in Sauoy, Bresse, Baugey, or Veronne, or other countries obedient vnto him, if they declare vnto him, or the chiefe of his Armie within fifteene daies after his Maiesties armie shall bee there ariued, that they will abandon the Dukes seruice, and be obedient to the will and commande<g ref="char:EOLhyphen"/>ment of his Maiestie.</p>
+            <p>His Maiestie in like manner ordaines the same to be done to all inhabitantes of townes, which open their gates vnto him or his seruants, meaning one<g ref="char:EOLhyphen"/>ly to vse hostilitie to those that beare armes in fauor of the said Duke and his adherents against his Ma<g ref="char:EOLhyphen"/>iestie in this present warre.</p>
+            <p>Besides, his Maiestie forbids all sacrilege, rauish<g ref="char:EOLhyphen"/>ments, burning of houses, or Castels, vpon paine of death.</p>
+            <p>And for as much as his Maiestie is informed, that certaine of his subiectes are in the seruice of the said Duke, both before and since the treatie at Veruins, which may thinke it their dutie to stay, vnder colour of being ingaged in his seruice, al<g ref="char:EOLhyphen"/>though neither wordes nor deedes can bind them to preiudice their faith, subiection, and vassal<g ref="char:EOLhyphen"/>lage, which nature bindes them to owe to their Prince, in whose Countrey they are borne: His Maiestie willing and desiring therefore to make
+<pb facs="tcp:12927:4"/> knowne his meaning, enioyneth all such his subiects of what condition or qualitie soeuer in the seruice of the said Duke, to returne into his kingdome within fifteen daies after the publication of this present or<g ref="char:EOLhyphen"/>dinance in his armie, vpon paine to bee punished as well in their persons as goods, as offendours of his Maiestie in the highest degree.</p>
+            <p>And to that end no man may pretend ignorance, his Maiestie willeth that his ordinance bee published in his Armie, and set vpon the postes of the princi<g ref="char:EOLhyphen"/>pall townes of his prouinces bordering vpon the Dukes countrey: Inioyning all his offi<g ref="char:EOLhyphen"/>cers and subiects, to keepe, obserue and punish rigorously all such as sha<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l not obey.</p>
+            <closer>
+               <dateline>Giuen at Lyons <date>the 11. day of August.</date>
+               </dateline>
+               <signed>Signed, HENRY: and vnderneath, DE NEVF-VILLE.</signed>
+            </closer>
+            <pb facs="tcp:12927:4"/>
+         </div>
+      </body>
+   </text>
+</TEI>
